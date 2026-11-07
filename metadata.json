@@ -1,0 +1,6 @@
+{
+  "name": "Mi Libreta",
+  "description": "Libreta de deudas para negocios pequeños (colmados, tiendas y vendedores) para llevar el control de lo que los clientes deben.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
